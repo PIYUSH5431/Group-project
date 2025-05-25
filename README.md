@@ -54,7 +54,7 @@ Check out the live website here: [https://piyush5431.github.io/Group-project/](h
 - HTML5  
 - CSS3  
 - JavaScript  
-- Bootstrap 4
+- Bootstrap 5
 
 ## Installation
 <!-- Instructions for setting up and viewing the site locally -->
